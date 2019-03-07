@@ -1,4 +1,4 @@
-package anil.com.andoirdbluetoothprint;
+package azad.com.andoirdbluetoothprint;
 
 import org.junit.Test;
 

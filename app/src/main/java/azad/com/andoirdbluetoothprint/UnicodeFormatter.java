@@ -1,7 +1,7 @@
-package anil.com.andoirdbluetoothprint;
+package azad.com.andoirdbluetoothprint;
 
 /**
- * Created by hp on 12/23/2016.
+ * Created by Azad on 7 Mar 2019.
  */
 
 public class UnicodeFormatter {
